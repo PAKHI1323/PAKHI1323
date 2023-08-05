@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PAKHI1323
-- 📚 I'm a btech CS 2nd year student.
+- 📚 I'm a Btech CS student.
 - 👀 Interested in contributing in open source projects
 - 🌱 I’m currently exploring tech world.  
 - 💞️ Looking to collaborate on tech projects.
